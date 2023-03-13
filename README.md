@@ -1,4 +1,4 @@
-# Send Messages to teams Channed using MSGraph API
+# Send Messages to teams Channel using MSGraph API
 [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
 
 
