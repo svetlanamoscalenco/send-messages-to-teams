@@ -3,7 +3,7 @@
 
 
 **.NET App view**  
-![.NET APP](.img/SendMessageToTeams.png)
+![.NET APP](./img/SendMessageToTeams.png)
 
 **Teams view**  
-![Teams](.img/TeamsResult.png)
+![Teams](./img/TeamsResult.png)
